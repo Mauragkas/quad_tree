@@ -1,0 +1,6489 @@
+{
+  "boundary": {
+    "center": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "half_size": 1000.0
+  },
+  "capacity": 4,
+  "points": [],
+  "divided": true,
+  "ne": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "ne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": 570.1925314607024,
+          "y": -672.8380432899237
+        }
+      ],
+      "divided": false,
+      "ne": null,
+      "nw": null,
+      "se": null,
+      "sw": null
+    },
+    "nw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 334.6496766764188,
+            "y": -814.1384568542334
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 463.1820405512113,
+            "y": -582.178877812651
+          },
+          {
+            "x": 257.3958418341679,
+            "y": -556.3125991094631
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -687.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 152.7264691059623,
+              "y": -711.2221206124067
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -687.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 7.999551792565972,
+              "y": -662.6952446109526
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -562.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -562.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -593.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 113.57451897957449,
+                "y": -609.5972569443061
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -593.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 19.735710243563574,
+                "y": -614.1497357103353
+              },
+              {
+                "x": 16.903574915032227,
+                "y": -567.8542192055214
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -531.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 103.85313238802678,
+                "y": -522.1118515929575
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -531.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 40.79932247998205,
+                "y": -539.3143867254613
+              },
+              {
+                "x": 23.77282792763175,
+                "y": -523.5614441343954
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      }
+    },
+    "se": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 875.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 771.5949711253273,
+            "y": -262.4646665781734
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 625.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 694.5169921265817,
+              "y": -400.6126463228197
+            },
+            {
+              "x": 627.5878857798998,
+              "y": -489.1753492814912
+            },
+            {
+              "x": 683.3846926065793,
+              "y": -433.33161856614885
+            },
+            {
+              "x": 682.8095903704954,
+              "y": -493.7576154883109
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 683.705425305282,
+              "y": -297.55064658524657
+            },
+            {
+              "x": 714.5363635469511,
+              "y": -268.28708727294645
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 875.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 937.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 897.855903778092,
+              "y": -238.31050136321525
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 812.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 857.6947999547422,
+              "y": -247.50795589042264
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 937.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 812.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 787.9765218967436,
+              "y": -18.05804584946668
+            },
+            {
+              "x": 823.0489964729668,
+              "y": -59.45899662607815
+            },
+            {
+              "x": 753.6773062189496,
+              "y": -56.04248620763965
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 625.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 643.9344527651901,
+              "y": -133.41107919926256
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 608.8722333581505,
+              "y": -172.74785439642153
+            },
+            {
+              "x": 621.624454900841,
+              "y": -169.34325386840646
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 556.5237759298254,
+              "y": -56.646318586120884
+            },
+            {
+              "x": 538.507867667313,
+              "y": -0.31625781155694227
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      }
+    },
+    "sw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 359.82612886721415,
+              "y": -478.6384414481167
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 410.17149662995143,
+              "y": -256.80945311622213
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 267.6402594362588,
+              "y": -340.88807782475027
+            },
+            {
+              "x": 351.97726086993697,
+              "y": -261.8965212324598
+            },
+            {
+              "x": 303.1090002186615,
+              "y": -279.83707347157986
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 173.68830388078027,
+              "y": -468.0942856337924
+            },
+            {
+              "x": 143.01916145511382,
+              "y": -487.48576222222823
+            },
+            {
+              "x": 186.45211230646495,
+              "y": -425.94263835422464
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 53.43091564290345,
+              "y": -439.4751453912026
+            },
+            {
+              "x": 57.16019485088495,
+              "y": -451.859073781919
+            },
+            {
+              "x": 36.73084608658743,
+              "y": -401.5761278107746
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 221.19947508938628,
+                "y": -325.26273313672834
+              },
+              {
+                "x": 245.39395840228755,
+                "y": -312.9701380441146
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 203.06943843923412,
+                "y": -255.19029430070216
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 153.19937135039913,
+                "y": -286.0219198448073
+              },
+              {
+                "x": 136.8705203373823,
+                "y": -264.1948546976016
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 89.63552280394168,
+              "y": -279.6558250445852
+            },
+            {
+              "x": 112.93631043796516,
+              "y": -256.8996497973655
+            },
+            {
+              "x": 40.19621377255005,
+              "y": -300.0908278673399
+            },
+            {
+              "x": 56.58671543521644,
+              "y": -293.86683885962606
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 415.1887851065639,
+              "y": -133.21744870535358
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 252.62225762681678,
+              "y": -176.62808250155547
+            },
+            {
+              "x": 301.3564032460964,
+              "y": -203.44218984102883
+            },
+            {
+              "x": 283.89301778164673,
+              "y": -182.73456364954384
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 491.97781907740205,
+              "y": -70.83012088855267
+            },
+            {
+              "x": 408.5561462344735,
+              "y": -85.9593028858669
+            },
+            {
+              "x": 475.9640682370327,
+              "y": -118.24606961371269
+            },
+            {
+              "x": 396.8184536727478,
+              "y": -118.59798675506957
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 343.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 334.51904346369247,
+                "y": -104.42938142884493
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 281.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 343.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 343.6129879507606,
+                "y": -32.568295588135484
+              },
+              {
+                "x": 351.05995841898,
+                "y": -3.5510504125926485
+              },
+              {
+                "x": 372.8442844424497,
+                "y": -14.108482406733355
+              },
+              {
+                "x": 340.8374653184792,
+                "y": -0.9986720386804492
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 281.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 294.5836725200824,
+                "y": -14.198808639111824
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 207.2513504473205,
+              "y": -230.17575269518431
+            },
+            {
+              "x": 223.87499398165957,
+              "y": -197.60574956141755
+            },
+            {
+              "x": 166.9422092747403,
+              "y": -144.44749172074444
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 120.44099183145798,
+                "y": -249.3484548057917
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 39.60361043111446,
+                "y": -243.81406036824905
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 97.20310267162702,
+                "y": -150.8521852754137
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 9.329483589852014,
+                "y": -140.6084390364306
+              },
+              {
+                "x": 34.85783588744652,
+                "y": -170.42873931851008
+              },
+              {
+                "x": 2.525888079518896,
+                "y": -183.19529383741704
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 183.72271057909867,
+                "y": -68.6741369291043
+              },
+              {
+                "x": 126.17503096638981,
+                "y": -90.6755074727606
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 234.44341374577292,
+                "y": -32.57676158536093
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": 171.875,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 160.6087838332283,
+                  "y": -38.84855343462961
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": 140.625,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 155.40771058365596,
+                  "y": -46.15148465272697
+                },
+                {
+                  "x": 127.84989941077238,
+                  "y": -59.37186697899843
+                },
+                {
+                  "x": 146.74318904163377,
+                  "y": -36.39898990281159
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": 171.875,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 167.42668092792255,
+                  "y": -28.97892743190518
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": 140.625,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 96.91716112959547,
+                "y": -70.24290208936894
+              },
+              {
+                "x": 96.96933721932292,
+                "y": -120.87077862832432
+              },
+              {
+                "x": 114.687483126548,
+                "y": -123.92533041815719
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 37.708072572238365,
+                "y": -83.9958446353173
+              },
+              {
+                "x": 1.6017207643310731,
+                "y": -111.07125339088766
+              },
+              {
+                "x": 50.274443335839294,
+                "y": -74.7439811944832
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 104.84676436343807,
+                "y": -3.1253274178260497
+              },
+              {
+                "x": 95.59363293302194,
+                "y": -27.552642740370686
+              },
+              {
+                "x": 113.67820796753327,
+                "y": -26.805885325767687
+              },
+              {
+                "x": 97.71915883873865,
+                "y": -60.64514562934978
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 5.287787372384481,
+                "y": -22.26825146590595
+              },
+              {
+                "x": 3.1596572900411743,
+                "y": -6.427971822373288
+              },
+              {
+                "x": 12.175854789212506,
+                "y": -14.241008577538972
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      }
+    }
+  },
+  "nw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": -500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "ne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -937.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -13.114608183817657,
+              "y": -965.0860091430221
+            },
+            {
+              "x": -9.531661295248641,
+              "y": -940.3415491130617
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -937.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -812.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -5.44832061571857,
+              "y": -838.157825276569
+            },
+            {
+              "x": -39.79797460745277,
+              "y": -768.2305786667466
+            },
+            {
+              "x": -31.05968856001875,
+              "y": -767.5637907318549
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -812.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -687.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -11.352870225255225,
+              "y": -638.5926919493633
+            },
+            {
+              "x": -2.301819977106478,
+              "y": -701.7525705267931
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -687.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -245.5331844201369,
+              "y": -631.7881754594454
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -562.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -51.442262269381246,
+              "y": -560.216618726581
+            },
+            {
+              "x": -13.119594782121696,
+              "y": -609.1892868266502
+            },
+            {
+              "x": -91.83601014187738,
+              "y": -512.0966354445443
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -562.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -210.6373123666347,
+              "y": -501.41502314949076
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -394.81217196448716,
+            "y": -542.6061006180415
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    },
+    "nw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -753.237572454006,
+          "y": -617.5509629182667
+        },
+        {
+          "x": -614.8342144456514,
+          "y": -524.4582165363938
+        },
+        {
+          "x": -645.1712868760275,
+          "y": -642.567004033049
+        },
+        {
+          "x": -549.6462446531316,
+          "y": -591.6791254160698
+        }
+      ],
+      "divided": false,
+      "ne": null,
+      "nw": null,
+      "se": null,
+      "sw": null
+    },
+    "se": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -70.10393913653672,
+              "y": -398.7999387944845
+            },
+            {
+              "x": -84.83357724231819,
+              "y": -469.9970692838774
+            },
+            {
+              "x": -74.92122405935329,
+              "y": -391.43500564868646
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -74.7107538576449,
+                "y": -316.69558050356494
+              },
+              {
+                "x": -75.10687305607092,
+                "y": -339.66667431272367
+              },
+              {
+                "x": -96.03157335990971,
+                "y": -331.1421167512862
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -14.914956208983947,
+                "y": -267.1892225122297
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -77.47637688631133,
+                "y": -292.72534680703245
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -210.46252322677427,
+              "y": -349.1220824766233
+            },
+            {
+              "x": -244.6714412172325,
+              "y": -288.15433328824275
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": -468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -270.11284707071053,
+                "y": -454.6709275172724
+              },
+              {
+                "x": -310.7189928703302,
+                "y": -442.98489410120186
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": -468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": -406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -252.44019075181404,
+                "y": -375.45444473198205
+              },
+              {
+                "x": -272.51154052024054,
+                "y": -403.9302472527043
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": -406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -322.3584881449193,
+                "y": -404.7828024833014
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -470.62556422071515,
+              "y": -441.92835085495165
+            },
+            {
+              "x": -404.24666672433744,
+              "y": -400.5621027701356
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -250.15259018879712,
+              "y": -258.55347201422785
+            },
+            {
+              "x": -334.5414424973765,
+              "y": -293.7503468551011
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -406.25,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -427.37709610935957,
+                "y": -313.58278560333036
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -468.75,
+                "y": -343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -440.18827301587675,
+                "y": -373.42446888053354
+              },
+              {
+                "x": -464.4087601709353,
+                "y": -342.4850285832137
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -406.25,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -391.25211854102105,
+                "y": -259.5004560362226
+              },
+              {
+                "x": -436.97288457948923,
+                "y": -278.5627380650841
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -468.75,
+                "y": -281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -6.0500897046226045,
+              "y": -150.36174808115317
+            },
+            {
+              "x": -83.07692969130208,
+              "y": -149.78474243224585
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -201.6512539415887,
+              "y": -247.17128712788846
+            },
+            {
+              "x": -194.18340878001305,
+              "y": -162.34203996772604
+            },
+            {
+              "x": -236.89074084323605,
+              "y": -144.6331713156421
+            },
+            {
+              "x": -162.7730467134795,
+              "y": -154.75074574111403
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -7.840413690807192,
+                "y": -108.23184553727472
+              },
+              {
+                "x": -51.60086695082982,
+                "y": -84.5358750581558
+              },
+              {
+                "x": -4.187279581525097,
+                "y": -96.52766212965714
+              },
+              {
+                "x": -31.214396610701236,
+                "y": -113.5832784252219
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -4.718389460211936,
+                  "y": -31.311282301977585
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -39.561210662459885,
+                  "y": -56.94431341224897
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -5.7671233433288736,
+                  "y": -11.702111842686207
+                },
+                {
+                  "x": -16.572238185805173,
+                  "y": -25.53049872812085
+                },
+                {
+                  "x": -14.745662394213007,
+                  "y": -17.480763939224786
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -47.16244083806533,
+                  "y": -12.295720305838396
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -107.1288792730359,
+                "y": -26.051644619886567
+              },
+              {
+                "x": -74.35632102763543,
+                "y": -19.32111391848993
+              },
+              {
+                "x": -112.24361361486751,
+                "y": -14.234609970500387
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -156.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -129.0996745521388,
+                "y": -69.02257479307458
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -218.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -240.66551092235196,
+                "y": -66.59710850093869
+              },
+              {
+                "x": -224.56017313289183,
+                "y": -104.20292900584764
+              },
+              {
+                "x": -201.20468933712178,
+                "y": -117.68617128593075
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -156.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -140.625,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -154.2629360787509,
+                  "y": -39.90950620484447
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -171.875,
+                  "y": -46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -172.75347193249857,
+                  "y": -61.75936487894139
+                },
+                {
+                  "x": -185.00550965880632,
+                  "y": -45.597968775865496
+                },
+                {
+                  "x": -181.88413983572576,
+                  "y": -49.05429027364856
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -140.625,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -155.68352201106111,
+                  "y": -8.41467113587188
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -171.875,
+                  "y": -15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -169.0467296204647,
+                  "y": -8.389154359694981
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -218.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -199.34498766237158,
+                "y": -51.45600766294321
+              },
+              {
+                "x": -234.48076229132252,
+                "y": -30.270173607665203
+              },
+              {
+                "x": -247.59017290154395,
+                "y": -3.9024617277479776
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -281.6731101374143,
+              "y": -147.71865046613544
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -406.25,
+                "y": -218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -468.75,
+                "y": -218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -497.1211602632623,
+                "y": -235.04527259013474
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -406.25,
+                "y": -156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -381.17282244338645,
+                "y": -171.95456505467112
+              },
+              {
+                "x": -401.7779435126397,
+                "y": -136.97292974178254
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -468.75,
+                "y": -156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -440.67925167228117,
+                "y": -128.9099015866811
+              },
+              {
+                "x": -439.28996494710117,
+                "y": -135.31966195064047
+              },
+              {
+                "x": -495.4967949928525,
+                "y": -159.12365794716402
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -265.625,
+                  "y": -109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -253.11898389167828,
+                  "y": -118.35558025621066
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -296.875,
+                  "y": -109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -302.9018842377523,
+                  "y": -94.17558101627868
+                },
+                {
+                  "x": -308.07194030669814,
+                  "y": -110.10386614604195
+                },
+                {
+                  "x": -290.3599527794368,
+                  "y": -116.71503908682367
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -265.625,
+                  "y": -78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -296.875,
+                  "y": -78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -292.6202776250649,
+                  "y": -76.18697293044373
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": -93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -366.00783080445103,
+                "y": -84.85971954223783
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -280.0552250373798,
+                "y": -54.1841077519077
+              },
+              {
+                "x": -312.2837306871698,
+                "y": -18.060968187453245
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": -31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -399.27114825619987,
+              "y": -7.970673189311292
+            },
+            {
+              "x": -438.86857938993654,
+              "y": -101.08748634960025
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      }
+    },
+    "sw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": -250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -625.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": -437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -690.8613211913816,
+              "y": -444.1237191104888
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -533.8815589978914,
+              "y": -266.0594600647804
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": -312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -658.1051470616231,
+              "y": -295.4695545518921
+            },
+            {
+              "x": -695.2327279974681,
+              "y": -368.1250150913549
+            },
+            {
+              "x": -650.6085498331249,
+              "y": -278.1736190330808
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -875.0,
+            "y": -375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -951.3216746348816,
+            "y": -283.0777784445688
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -625.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": -187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -686.7645363351172,
+              "y": -140.97890958625814
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -517.3534728086195,
+              "y": -23.418020791256097
+            },
+            {
+              "x": -577.8045641221667,
+              "y": -11.570289075366672
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": -62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -687.4443761663906,
+              "y": -55.3892647911358
+            },
+            {
+              "x": -641.7220837550769,
+              "y": -46.57576734010615
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -875.0,
+            "y": -125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -967.0632959328932,
+            "y": -88.75167040316774
+          },
+          {
+            "x": -764.8110510211515,
+            "y": -80.88947190009515
+          },
+          {
+            "x": -884.5883162990975,
+            "y": -231.11275892974234
+          },
+          {
+            "x": -781.138176732277,
+            "y": -145.5153004202929
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    }
+  },
+  "se": {
+    "boundary": {
+      "center": {
+        "x": 500.0,
+        "y": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "ne": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 875.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 790.2752136206327,
+            "y": 44.409804954607615
+          },
+          {
+            "x": 875.1856270071207,
+            "y": 101.93175265819067
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 625.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 742.020022949481,
+              "y": 76.8534176729533
+            },
+            {
+              "x": 708.8387838623008,
+              "y": 94.04727208668275
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 563.3462462314859,
+              "y": 51.946199962803014
+            },
+            {
+              "x": 583.4895661777031,
+              "y": 41.523027659425885
+            },
+            {
+              "x": 613.7241717081642,
+              "y": 63.411742780020695
+            },
+            {
+              "x": 528.105267257001,
+              "y": 96.43586842677722
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 687.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 562.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 521.6125429421312,
+              "y": 125.0714517307636
+            },
+            {
+              "x": 574.0652906466835,
+              "y": 125.9110026095123
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 875.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 840.1819015072583,
+            "y": 349.71012544896973
+          },
+          {
+            "x": 953.0479339896984,
+            "y": 282.5603047538723
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 625.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 584.4009512790723,
+            "y": 380.40960564649737
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    },
+    "nw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 486.0339697560159,
+              "y": 21.98803502942308
+            },
+            {
+              "x": 484.2523722770566,
+              "y": 69.87934096529756
+            },
+            {
+              "x": 420.6635894701764,
+              "y": 37.33413563479571
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 343.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 347.67946220693585,
+                "y": 27.578328621141132
+              },
+              {
+                "x": 344.89113616934094,
+                "y": 53.31305113857616
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 281.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 293.1939473810087,
+                "y": 26.294100905707705
+              },
+              {
+                "x": 278.28173223733927,
+                "y": 9.77582639210752
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 343.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 373.5429006387988,
+                "y": 95.82121686644989
+              },
+              {
+                "x": 323.45892408343985,
+                "y": 90.6225049072855
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 281.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 283.59586358609147,
+                "y": 82.76603008352392
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 492.6086276900942,
+              "y": 166.24559372797452
+            },
+            {
+              "x": 421.7480975597125,
+              "y": 229.07269949550658
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 273.44557516510116,
+              "y": 217.21423993492647
+            },
+            {
+              "x": 273.204989368143,
+              "y": 149.0987117413818
+            },
+            {
+              "x": 260.19803926704327,
+              "y": 227.90036947090337
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 243.4596106812846,
+                "y": 51.63614196761381
+              },
+              {
+                "x": 189.68011329107267,
+                "y": 31.497689001254393
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 169.71688323309357,
+                "y": 10.432053099243365
+              },
+              {
+                "x": 168.5951361418467,
+                "y": 39.02141791322961
+              },
+              {
+                "x": 178.5565423553164,
+                "y": 25.545968616887205
+              },
+              {
+                "x": 163.6749715163074,
+                "y": 41.91430345725929
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 189.58630527860365,
+                "y": 99.58510854556737
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 138.44112313678303,
+                "y": 97.75274852106872
+              },
+              {
+                "x": 165.07783298079252,
+                "y": 111.77556771010045
+              },
+              {
+                "x": 151.4568051780705,
+                "y": 112.76234023527711
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 74.15554012474313,
+                "y": 15.928753431667118
+              },
+              {
+                "x": 84.65328081140616,
+                "y": 17.128255791417136
+              },
+              {
+                "x": 90.68193263328745,
+                "y": 43.248555210564405
+              },
+              {
+                "x": 116.14155835925165,
+                "y": 40.64442207507393
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": 46.875,
+                  "y": 15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": 15.625,
+                  "y": 15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 20.58849528858666,
+                  "y": 14.363435604051443
+                },
+                {
+                  "x": 10.732596677139233,
+                  "y": 10.932316329530591
+                },
+                {
+                  "x": 2.950148245383071,
+                  "y": 11.044578579326918
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": 46.875,
+                  "y": 46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 38.01487930833209,
+                  "y": 39.749948869288595
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": 15.625,
+                  "y": 46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": 9.337406914873391,
+                  "y": 61.72916144303145
+                },
+                {
+                  "x": 13.249615758793743,
+                  "y": 34.85801961157948
+                },
+                {
+                  "x": 29.505948071215236,
+                  "y": 53.688191563221146
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 90.71422830205017,
+                "y": 82.73067392155073
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 7.985441077169643,
+                "y": 76.41962694686735
+              },
+              {
+                "x": 15.436653938314658,
+                "y": 124.32041526933023
+              },
+              {
+                "x": 14.026758280683845,
+                "y": 88.91789164081104
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 210.67014871002635,
+              "y": 173.29584668398942
+            },
+            {
+              "x": 183.05121609424603,
+              "y": 203.10143625515167
+            },
+            {
+              "x": 156.76166572124455,
+              "y": 239.45609805977423
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 64.80186395653438,
+                "y": 130.96258887791683
+              },
+              {
+                "x": 102.5801544083212,
+                "y": 175.72195193399367
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 37.44314183321989,
+                "y": 139.60655415593487
+              },
+              {
+                "x": 47.96115256769476,
+                "y": 159.48854793118565
+              },
+              {
+                "x": 18.950780766585044,
+                "y": 157.96310300144685
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 94.29850010914011,
+                "y": 227.45565704494135
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 54.75737567149791,
+                "y": 249.0153942923822
+              },
+              {
+                "x": 53.51532754631069,
+                "y": 190.5663626204892
+              },
+              {
+                "x": 38.877285584270766,
+                "y": 246.36898311743502
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 356.2511103282182,
+              "y": 284.6979560837399
+            },
+            {
+              "x": 280.4443497400528,
+              "y": 255.45421202931303
+            },
+            {
+              "x": 266.550451462274,
+              "y": 270.7435906694441
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 437.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 428.88826856442296,
+              "y": 397.5382592255351
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 312.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": 363.38578660379534,
+              "y": 382.48532949820134
+            },
+            {
+              "x": 319.482134484371,
+              "y": 450.4912473423472
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 153.99281323189513,
+                "y": 281.5158229764847
+              },
+              {
+                "x": 147.98981034124557,
+                "y": 276.7055085605535
+              },
+              {
+                "x": 127.89605266481827,
+                "y": 283.340671423651
+              },
+              {
+                "x": 136.3116304146931,
+                "y": 266.74542372658334
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 218.75,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 156.25,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 171.8674565109538,
+                "y": 346.03408630695145
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 109.31523184424587,
+                "y": 308.3287550537268
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 32.4173450803418,
+                "y": 269.5699672344147
+              },
+              {
+                "x": 55.46014941505173,
+                "y": 281.0458609401884
+              },
+              {
+                "x": 22.93454893407358,
+                "y": 299.52825270849627
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 87.56690935711416,
+                "y": 340.3665562465737
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 10.631814629657983,
+                "y": 323.8602556800235
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": 187.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": 62.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 122.46827112401164,
+                "y": 405.0481944715678
+              },
+              {
+                "x": 69.64341559444283,
+                "y": 417.46974221507634
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 16.474326893401553,
+                "y": 382.69287856714516
+              },
+              {
+                "x": 56.8970819752772,
+                "y": 386.30889965184895
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": 93.75,
+                "y": 468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": 31.25,
+                "y": 468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": 20.325344590168676,
+                "y": 478.7952606769124
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        }
+      }
+    },
+    "se": {
+      "boundary": {
+        "center": {
+          "x": 750.0,
+          "y": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": false,
+      "ne": null,
+      "nw": null,
+      "se": null,
+      "sw": null
+    },
+    "sw": {
+      "boundary": {
+        "center": {
+          "x": 250.0,
+          "y": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 291.20009215668557,
+            "y": 705.6014428241767
+          },
+          {
+            "x": 391.0851773954587,
+            "y": 744.6016624951111
+          },
+          {
+            "x": 370.8814822055457,
+            "y": 688.7132911585437
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 39.46759538449395,
+            "y": 558.657439891373
+          },
+          {
+            "x": 188.21139047293198,
+            "y": 614.8702208081471
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": 375.0,
+            "y": 875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": 125.0,
+            "y": 875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": 200.2917766531347,
+            "y": 790.4959221406975
+          },
+          {
+            "x": 160.6628408145403,
+            "y": 880.4382067071402
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    }
+  },
+  "sw": {
+    "boundary": {
+      "center": {
+        "x": -500.0,
+        "y": 500.0
+      },
+      "half_size": 500.0
+    },
+    "capacity": 4,
+    "points": [],
+    "divided": true,
+    "ne": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": 15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -20.924367619542714,
+                  "y": 9.145809501070943
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": 15.625
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -61.89258784195922,
+                  "y": 10.128384687323937
+                },
+                {
+                  "x": -42.104530068792315,
+                  "y": 14.236134085140348
+                },
+                {
+                  "x": -60.989595827833725,
+                  "y": 0.6684547530879211
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": 46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -16.12361809909255,
+                  "y": 54.68552115865154
+                },
+                {
+                  "x": -24.138877534508655,
+                  "y": 50.88003357018753
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": 46.875
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -51.52135321097801,
+                  "y": 39.13223228942753
+                },
+                {
+                  "x": -44.84606637179764,
+                  "y": 44.844606419292106
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -62.61142729149778,
+                "y": 0.501776977235426
+              },
+              {
+                "x": -74.40760820035952,
+                "y": 9.309945244480133
+              },
+              {
+                "x": -107.81797398172493,
+                "y": 13.409522429311602
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": 78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -22.969741061166097,
+                  "y": 69.5846533913969
+                },
+                {
+                  "x": -7.733893958238286,
+                  "y": 79.67921620858142
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": 78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -56.83524665184174,
+                  "y": 92.60953864581421
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -15.625,
+                  "y": 109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -2.8951079937620667,
+                  "y": 101.9385080915146
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -46.875,
+                  "y": 109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -56.9780058083629,
+                  "y": 124.87182235773359
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -96.10257500312612,
+                "y": 68.95073773103603
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -156.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -151.71247820515154,
+                "y": 8.938299706759906
+              },
+              {
+                "x": -174.79782694588818,
+                "y": 17.738534957933076
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -218.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -198.98753098590265,
+                "y": 38.95182320471393
+              },
+              {
+                "x": -201.23772049738656,
+                "y": 36.96382770375494
+              },
+              {
+                "x": -199.5493612203769,
+                "y": 3.9172394709632297
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -156.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -218.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": true,
+            "ne": {
+              "boundary": {
+                "center": {
+                  "x": -203.125,
+                  "y": 78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -213.00431452744337,
+                  "y": 89.49414847371196
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "nw": {
+              "boundary": {
+                "center": {
+                  "x": -234.375,
+                  "y": 78.125
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -237.92092598334457,
+                  "y": 74.6814419291153
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "se": {
+              "boundary": {
+                "center": {
+                  "x": -203.125,
+                  "y": 109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [
+                {
+                  "x": -199.9995083422985,
+                  "y": 96.27750443092546
+                },
+                {
+                  "x": -210.56509402610888,
+                  "y": 108.69936449471172
+                },
+                {
+                  "x": -198.68443793804965,
+                  "y": 114.70797959334294
+                }
+              ],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            },
+            "sw": {
+              "boundary": {
+                "center": {
+                  "x": -234.375,
+                  "y": 109.375
+                },
+                "half_size": 15.625
+              },
+              "capacity": 4,
+              "points": [],
+              "divided": false,
+              "ne": null,
+              "nw": null,
+              "se": null,
+              "sw": null
+            }
+          }
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -50.523660018091896,
+                "y": 159.64506408430023
+              },
+              {
+                "x": -42.819460770120436,
+                "y": 126.25871942535433
+              },
+              {
+                "x": -47.46552369110951,
+                "y": 174.136358440615
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 156.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -4.934155521661991,
+                "y": 215.496414220775
+              },
+              {
+                "x": -45.077709050490206,
+                "y": 234.02180542365483
+              },
+              {
+                "x": -13.033674113251436,
+                "y": 195.364399603386
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 218.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -110.44060723601405,
+                "y": 212.86157448884157
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -185.14913048618254,
+              "y": 239.38375753387524
+            },
+            {
+              "x": -241.55784313871638,
+              "y": 139.00915549067216
+            },
+            {
+              "x": -203.71605244041297,
+              "y": 136.8071812472498
+            },
+            {
+              "x": -180.81396531937452,
+              "y": 134.43077916425716
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -333.35827394691796,
+                "y": 7.365114192329235
+              },
+              {
+                "x": -349.37149004506165,
+                "y": 10.494138655747683
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -281.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -260.01496686303625,
+                "y": 78.32917255282882
+              },
+              {
+                "x": -299.01492728495526,
+                "y": 63.764025491126226
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -343.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -355.20129841797353,
+                "y": 117.2541438976911
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -414.1448168683996,
+              "y": 88.08341063275515
+            },
+            {
+              "x": -479.0861362294933,
+              "y": 7.420104277799968
+            },
+            {
+              "x": -441.6031543972176,
+              "y": 6.5450535615152035
+            },
+            {
+              "x": -408.2584278081926,
+              "y": 0.9698993572440929
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -363.5270634555967,
+              "y": 174.40707578943997
+            },
+            {
+              "x": -329.09535423936154,
+              "y": 239.24931325090301
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -409.1920237944844,
+              "y": 171.22232763238705
+            },
+            {
+              "x": -377.7068110544365,
+              "y": 148.0086473573437
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -45.00242414476905,
+                "y": 283.42037094660776
+              },
+              {
+                "x": -33.70916304011682,
+                "y": 298.1858230634353
+              },
+              {
+                "x": -8.311617880207251,
+                "y": 252.00027074491325
+              },
+              {
+                "x": -14.465243075150607,
+                "y": 308.19115307937216
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 281.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -124.16327620889714,
+                "y": 283.77427468033153
+              },
+              {
+                "x": -66.26978438609379,
+                "y": 295.03753026153856
+              },
+              {
+                "x": -67.06710802575596,
+                "y": 253.14008537820177
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -22.14391317106456,
+                "y": 365.6024425697283
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 343.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -94.63475969012556,
+                "y": 344.7062689151114
+              },
+              {
+                "x": -89.77002296451947,
+                "y": 354.5390799937437
+              },
+              {
+                "x": -111.683972740953,
+                "y": 319.3436812948063
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -62.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -49.30086824598386,
+                "y": 425.2518205055925
+              },
+              {
+                "x": -31.437717214640184,
+                "y": 404.4362813958894
+              },
+              {
+                "x": -35.09339970899416,
+                "y": 405.86750620144977
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 406.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -122.2152932895239,
+                "y": 384.4897019091478
+              },
+              {
+                "x": -96.85091319770646,
+                "y": 387.7866526087969
+              },
+              {
+                "x": -100.71022620842271,
+                "y": 405.1847871003473
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -31.25,
+                "y": 468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -23.06621562108727,
+                "y": 456.54546378248904
+              },
+              {
+                "x": -45.3727690805804,
+                "y": 477.15697217239034
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -93.75,
+                "y": 468.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -187.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -336.87733585569435,
+              "y": 254.1850204762712
+            },
+            {
+              "x": -348.5859262598755,
+              "y": 290.76851599246083
+            },
+            {
+              "x": -316.0341284137475,
+              "y": 280.80915743381536
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": 312.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -451.47607855907575,
+              "y": 272.04424575439606
+            },
+            {
+              "x": -461.1870771047647,
+              "y": 358.64940278147657
+            },
+            {
+              "x": -452.1626852152186,
+              "y": 328.8618070130061
+            },
+            {
+              "x": -375.490116363648,
+              "y": 290.5977099796155
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -312.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -437.5,
+              "y": 437.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      }
+    },
+    "nw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 250.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -625.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [],
+        "divided": true,
+        "ne": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [],
+          "divided": true,
+          "ne": {
+            "boundary": {
+              "center": {
+                "x": -531.25,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -550.4257274206415,
+                "y": 28.331957286263872
+              },
+              {
+                "x": -506.1984252389839,
+                "y": 19.707326415534737
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "nw": {
+            "boundary": {
+              "center": {
+                "x": -593.75,
+                "y": 31.25
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -574.7273118361842,
+                "y": 5.181015025650693
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "se": {
+            "boundary": {
+              "center": {
+                "x": -531.25,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -544.5185225153333,
+                "y": 98.8669207064397
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          },
+          "sw": {
+            "boundary": {
+              "center": {
+                "x": -593.75,
+                "y": 93.75
+              },
+              "half_size": 31.25
+            },
+            "capacity": 4,
+            "points": [
+              {
+                "x": -605.5449423466029,
+                "y": 78.07110952906824
+              }
+            ],
+            "divided": false,
+            "ne": null,
+            "nw": null,
+            "se": null,
+            "sw": null
+          }
+        },
+        "nw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": 62.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -640.7332673877949,
+              "y": 28.516662502226286
+            },
+            {
+              "x": -704.7320676418991,
+              "y": 11.869818270207052
+            },
+            {
+              "x": -678.4084081931934,
+              "y": 9.884004875880587
+            },
+            {
+              "x": -632.3607015161374,
+              "y": 24.180232190324077
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "se": {
+          "boundary": {
+            "center": {
+              "x": -562.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -613.0896970626171,
+              "y": 247.50186417156914
+            },
+            {
+              "x": -577.3502383465221,
+              "y": 166.54005797955006
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        },
+        "sw": {
+          "boundary": {
+            "center": {
+              "x": -687.5,
+              "y": 187.5
+            },
+            "half_size": 62.5
+          },
+          "capacity": 4,
+          "points": [
+            {
+              "x": -642.8268902406634,
+              "y": 171.3548660910853
+            }
+          ],
+          "divided": false,
+          "ne": null,
+          "nw": null,
+          "se": null,
+          "sw": null
+        }
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -875.0,
+            "y": 125.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -765.2412917810262,
+            "y": 207.03081233097777
+          },
+          {
+            "x": -872.66916508433,
+            "y": 1.5641568963737185
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -625.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -640.2106037030055,
+            "y": 250.80417324513147
+          },
+          {
+            "x": -600.7843378807887,
+            "y": 319.93935779704736
+          },
+          {
+            "x": -726.7934114794639,
+            "y": 267.5196315801026
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -875.0,
+            "y": 375.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -833.0337038378835,
+            "y": 367.1119725072408
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    },
+    "se": {
+      "boundary": {
+        "center": {
+          "x": -250.0,
+          "y": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [],
+      "divided": true,
+      "ne": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -178.80966785714472,
+            "y": 514.4709568991793
+          },
+          {
+            "x": -245.22485235548268,
+            "y": 672.54384849452
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "nw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 625.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -434.25585264519543,
+            "y": 594.3236574258182
+          },
+          {
+            "x": -299.38552459130034,
+            "y": 641.0906437273629
+          },
+          {
+            "x": -461.7575914166802,
+            "y": 606.1290537448328
+          },
+          {
+            "x": -347.1145616496631,
+            "y": 688.2636336731299
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "se": {
+        "boundary": {
+          "center": {
+            "x": -125.0,
+            "y": 875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -122.06716673923333,
+            "y": 788.7840160327336
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      },
+      "sw": {
+        "boundary": {
+          "center": {
+            "x": -375.0,
+            "y": 875.0
+          },
+          "half_size": 125.0
+        },
+        "capacity": 4,
+        "points": [
+          {
+            "x": -404.9972710112932,
+            "y": 784.6107128865526
+          },
+          {
+            "x": -470.2065679292904,
+            "y": 826.0919869736541
+          }
+        ],
+        "divided": false,
+        "ne": null,
+        "nw": null,
+        "se": null,
+        "sw": null
+      }
+    },
+    "sw": {
+      "boundary": {
+        "center": {
+          "x": -750.0,
+          "y": 750.0
+        },
+        "half_size": 250.0
+      },
+      "capacity": 4,
+      "points": [
+        {
+          "x": -515.2338112391893,
+          "y": 722.692688937654
+        },
+        {
+          "x": -620.8819914996467,
+          "y": 612.2862086661911
+        },
+        {
+          "x": -524.3676093944601,
+          "y": 595.340921903953
+        },
+        {
+          "x": -529.9472711636809,
+          "y": 705.3287048277887
+        }
+      ],
+      "divided": false,
+      "ne": null,
+      "nw": null,
+      "se": null,
+      "sw": null
+    }
+  }
+}
